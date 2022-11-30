@@ -1,0 +1,15 @@
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\bin\Debug\net6.0\ProjectEV.exe
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\bin\Debug\net6.0\ProjectEV.deps.json
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\bin\Debug\net6.0\ProjectEV.runtimeconfig.json
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\bin\Debug\net6.0\ProjectEV.dll
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\bin\Debug\net6.0\ProjectEV.pdb
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\obj\Debug\net6.0\ProjectEV.csproj.AssemblyReference.cache
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\obj\Debug\net6.0\ProjectEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\obj\Debug\net6.0\ProjectEV.AssemblyInfoInputs.cache
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\obj\Debug\net6.0\ProjectEV.AssemblyInfo.cs
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\obj\Debug\net6.0\ProjectEV.csproj.CoreCompileInputs.cache
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\obj\Debug\net6.0\ProjectEV.dll
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\obj\Debug\net6.0\refint\ProjectEV.dll
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\obj\Debug\net6.0\ProjectEV.pdb
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\obj\Debug\net6.0\ProjectEV.genruntimeconfig.cache
+C:\Users\Force\Desktop\ProjectCar\ProjectEV\obj\Debug\net6.0\ref\ProjectEV.dll
